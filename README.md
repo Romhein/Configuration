@@ -1,0 +1,3 @@
+Configuration
+=============
+Personal vim configuration
